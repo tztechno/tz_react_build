@@ -1,5 +1,6 @@
 [not use docker]
 [first install node]
+# install
 
 --------------------------------------------------
 
@@ -18,6 +19,7 @@ v20.9.0
 10.1.0
 
 [node install completed]
+
 --------------------------------------------------
 
 npm install -g create-react-app
